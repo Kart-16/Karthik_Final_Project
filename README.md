@@ -1,4 +1,4 @@
 # Karthik_Final_Project
 
-Please refer to "Sep 5 Final Project" for Jupyter notebook
+Please refer to "Karthik Final LC Loans Sep5.ipynb" for Jupyter notebook
 Power point deck attached 
